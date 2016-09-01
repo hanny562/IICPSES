@@ -204,6 +204,7 @@
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
+    <Compile Include="Models\Users\Course.cs" />
     <Compile Include="Models\Users\Student.cs" />
     <Compile Include="Models\Users\Lecturer.cs" />
     <Compile Include="Models\Users\SubjectProfile.cs" />
